@@ -12,8 +12,8 @@ Python | Azure OpenAI | LangChain | LangGraph | PostgreSQL |
 FastAPI | Azure Container Apps | Prometheus | Grafana
 
 ## Certifications
-- ITIL 4 Foundation — April 2026
-- AI-102 Azure AI Engineer Associate — August 2026
+- ITIL 4 Foundation
+- AI-102 Azure AI Engineer Associate
 
 ## Connect
 
